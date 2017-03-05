@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Program Files\Unity\Editor\</UnityInstallationDir>
+        <UnityWSASolutionName>UnityTest</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\GIT_REPO\HoloBasics\App\</UnityWSASolutionDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <UnityProjectDir>C:\GIT_REPO\HoloBasics\</UnityProjectDir>
+    </PropertyGroup>
+</Project>
